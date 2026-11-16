@@ -1,0 +1,31 @@
+Thank you for downloading my project, Harmony V1.0.
+
+
+Instructions:
+ This is an audio-visual-based instrument, so first you'll need to have a camera.
+
+ The tracking system works by detecting the position of your pointer finger. It works best if you're in good lighting
+ and displaying your hand flat to the camera.
+
+ 
+ Left  hand controls:
+
+ Pinching with your pointer finger and your thumb creates sustain mode. It will sustain that singular note no matter where you move your hand as long as you keep your pointer finger and your thumb pinched.
+
+ Pinching your middle finger to your thumb allows you to "bend" chords, allowing for tonal distortion.
+ It is based on the vertical axis so the note will raise if you move your hand up and the note will lower if you likewise   lower the position of your hand.
+ 
+ 
+ Layering chords:
+
+ Tapping your ring finger or pinky to your thumb allows you to layer chords. These chords will sustain until you tap either your ring or pinky finger to your thumb again.
+
+
+ 
+ 
+ Closing the program:
+  Tapping "f" on your keyboard closes the program.
+	
+	
+	
+	
